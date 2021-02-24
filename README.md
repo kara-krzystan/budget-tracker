@@ -25,7 +25,7 @@ Check out the deployed app here: [Budget Tracker](https://salty-wildwood-14961.h
 
 ### Screenshots
 
-![screenshot](https://github.com/kara-krzystan/budget-tracker/blob/main/public/images/Screenshot_01.jpg)
+![screenshot](https://github.com/kara-krzystan/budget-tracker/blob/main/public/images/Screenshot_01.png)
 
 ### Questions?
 
