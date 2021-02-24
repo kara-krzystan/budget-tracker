@@ -32,6 +32,7 @@ function saveRecord(record) {
   const budgetObjectStore = transaction.objectStore('new_budget_entry');
 
   budgetObjectStore.add(record);
+    alert("Offline Mode: Update saved successfully");
 }
 
 function uploadBudgetEntry() {
@@ -61,6 +62,8 @@ function uploadBudgetEntry() {
           const budgetObjectStore = transaction.objectStore('new_budget_entry');
          
           budgetObjectStore.clear();
+
+          alert("Update: All pending offline transactions have been posted!");
         })
         .catch(err => {
           console.log(err);
