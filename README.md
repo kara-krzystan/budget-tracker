@@ -2,7 +2,7 @@
 
 ## Description
 
-For this challenge, I was tasked with updating a budget tracking application to allow for offline access and functionality. The user will be able to record expenses and deposits to their budget app with or without an internet connection. Offline transactions are updated to the app when the user returns back online.
+For this challenge, I was tasked with updating a simple budget tracking application to allow for offline access and functionality. The user will be able to record expenses and deposits to their budget app with or without an internet connection. Offline transactions are updated to the app when the user returns back online.
 
 The application’s front end has already been created. It's my job to add offline persistence with IndexedDB, implement PWA functionality, and then deploy the finished application to Heroku via MongoDB Atlas.
 
